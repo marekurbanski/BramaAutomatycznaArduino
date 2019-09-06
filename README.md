@@ -1,0 +1,1 @@
+Sterownik bramy automatycznej
