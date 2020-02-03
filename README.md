@@ -1,5 +1,14 @@
 Sterownik bramy automatycznej
 
+2020-02-02:
+Dodany moduł WiFi
+- Sterowanie poprzez URL
+- Integracja z systemem Sky-Desk SmartHome
+- Sprawdzanie statusu otwartej bramy (Sky-Desk.eu)
+- Dodany skobel w jednym ze skrzydeł - tak żeby silny wiatrt nie powyginal bramy/siłowników
+
+
+
 2019-09-06:
 Na dzień dzisiejszy jest to pierwsza, najprostsza wersja bramy.
 Brakuje tutaj połączenia do modułu radiowego YET404PC.
